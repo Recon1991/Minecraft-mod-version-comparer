@@ -1,5 +1,7 @@
 Mod Name (Link1),Version (Link1),Mod Name (Link2),Version (Link2),Comparison Result
 -,com_akuleshov7_ktoml-core-jvm 0.5.1,-,com_akuleshov7_ktoml-core-jvm 0.5.1,Match
+Mod,N/A,Mod,"'JourneyMapIntegration' (jmi) 1.20.1-0.14-48 recommends version 14 or later of waystones, which is missing!",Missing in Link1
+You,N/A,You,should install version 14 or later of waystones for the optimal experience.,Missing in Link1
 a_man_with_plushies,4.2.0,a_man_with_plushies,4.2.0,Match
 alloy_forgery,2.1.2+1.20,alloy_forgery,2.1.2+1.20,Match
 almostunified,1.20.1-0.9.4,almostunified,1.20.1-0.9.4,Match
@@ -202,6 +204,9 @@ memoryleakfix,1.1.2,memoryleakfix,1.1.2,Match
 mighty_mail,1.0.14,mighty_mail,1.0.14,Match
 mine-spawners,1.0,mine-spawners,1.0,Match
 minecraft,1.20.1,minecraft,1.20.1,Match
+minecraft:overworld:,N/A,minecraft:overworld:,net.minecraft.class_3754@55d3a8f9,Missing in Link1
+minecraft:the_end:,N/A,minecraft:the_end:,BCLib - Chunk Generator (80d576),Missing in Link1
+minecraft:the_nether:,N/A,minecraft:the_nether:,BCLib - Chunk Generator (1526f9f7),Missing in Link1
 mixintrace,1.1.1+1.17,mixintrace,1.1.1+1.17,Match
 modelfix,1.15,modelfix,1.15,Match
 modernfix,5.19.4+mc1.20.1,modernfix,5.19.4+mc1.20.1,Match

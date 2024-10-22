@@ -6,6 +6,10 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
+import logging
+import re
+import requests
+
 def extract_mods_from_log(input_source):
     logging.info(f"Extracting mods from: {input_source}")
 
@@ -42,52 +46,26 @@ def extract_mods_from_log(input_source):
 
     else:  # Detailed mod loading section case
         for line in mod_section.group(1).splitlines():
-            if line.startswith('- '):
-                parts = line[2:].split(' ', 1)  # Split on the first space
-                mod_name = parts[0].strip()
-                version = parts[1].strip() if len(parts) > 1 else "N/A"
+            # Updated regex pattern to capture mod names and versions
+            mod_regex = r'^\s*-\s*(\S+)\s+([\d+\.\d+(-\w+)?(\+\d+\.\d+)?]+)'  # Updated regex pattern
+            match = re.match(mod_regex, line)
+            if match:
+                mod_name = match.group(1).strip()
+                version = match.group(2).strip()
                 mods.append((mod_name, version))
+            elif line.strip() == "":
+                continue  # Ignore empty lines
+            else:
+                break  # Stop if we hit a line that doesn't match mod formatting
+
+    # Filtering out non-mod entries from the extracted list
+    mods = [mod for mod in mods if 'recommended version' not in mod[0].lower() and 'should install' not in mod[0].lower()]
 
     logging.info(f"Extracted {len(mods)} mods from {input_source}")
     logging.debug(f"First 5 mods: {mods[:5]}")  # Optional: Display a sample
 
     return mods
 
-def parse_mod_section(mod_section):
-    mods = []
-    for line in mod_section.splitlines():
-        if line.startswith('- '):
-            parts = line[2:].split(' ', 1)  
-            mod_name = parts[0]
-            version = parts[1] if len(parts) > 1 else "N/A"
-            mods.append((mod_name, version))
-
-    logging.info(f"Extracted {len(mods)} mods from log section.")
-    return mods
-
-def parse_simple_mod_list(content):
-    mods = []
-    lines = content.splitlines()
-
-    for line in lines:
-        line = line.strip()
-        if line.startswith('- '):
-            parts = line[2:].split(' ', 1)  
-            mod_name = parts[0]
-            version = parts[1] if len(parts) > 1 else "N/A"
-            mods.append((mod_name, version))
-        elif '|' in line or '\\' in line:  # Handle sub-mods indicated by "|--" or "\--"
-            sub_mods = line.replace('|--', '-').replace('\\--', '-').strip().split('-')
-            for sub_mod in sub_mods:
-                sub_mod = sub_mod.strip()
-                if sub_mod:
-                    parts = sub_mod.split(' ', 1)
-                    mod_name = parts[0]
-                    version = parts[1] if len(parts) > 1 else "N/A"
-                    mods.append((mod_name, version))
-
-    logging.info(f"Extracted {len(mods)} mods from simple list.")
-    return mods
 
 def compare_mods(mods1, mods2):
     logging.info("Comparing mods...")
