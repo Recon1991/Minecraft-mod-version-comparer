@@ -7,33 +7,51 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 def extract_mods_from_log(input_source):
-    logging.info(f"Extracting mods from: {input_source}")  
+    logging.info(f"Extracting mods from: {input_source}")
 
-    try:
-        if input_source.startswith("http://") or input_source.startswith("https://"):
-            response = requests.get(input_source)
-            response.raise_for_status()
-            content = response.text
-            logging.info(f"Fetched {len(content)} characters from {input_source}")  
-        else:
-            with open(input_source, 'r') as file:
-                content = file.read()
-            logging.info(f"Read {len(content)} characters from {input_source}")  
+    # Check if input source is a URL or a file path
+    if input_source.startswith("http://") or input_source.startswith("https://"):
+        response = requests.get(input_source)
+        content = response.text
+        logging.info(f"Fetched {len(content)} characters from {input_source}")
+    else:
+        with open(input_source, 'r') as file:
+            content = file.read()
+        logging.info(f"Read {len(content)} characters from {input_source}")
 
-        # First, try to extract from the mod loading section
-        mod_section = re.search(r'\[main/INFO]: Loading \d+ mods:\s*([\s\S]*?)(?=\n\n)', content)
+    # Attempt to find the mod loading section using regex
+    mod_section = re.search(r'\[main/INFO]: Loading \d+ mods:\n((?:.*\n)*?)\n\n', content)
+
+    mods = []
+
+    # If no detailed mod loading section found, attempt to find simple mod list entries
+    if not mod_section:
+        logging.warning(f"No detailed mod loading section found. Attempting to extract simple mod list...")
+
+        # Use regex to find lines starting with '-' or '\--'
+        mod_entries = re.findall(r'^[ \t]*[-\\]{1,2}\s*(\S+)\s*(\S+.*)$', content, re.MULTILINE)
         
-        if mod_section:
-            logging.info("Mod section found. Extracting mods from log...")
-            return parse_mod_section(mod_section.group(1))
+        if mod_entries:
+            for entry in mod_entries:
+                mod_name = entry[0].strip()
+                version = entry[1].strip()
+                mods.append((mod_name, version))
+        else:
+            logging.warning(f"No mod list found in {input_source}")
+            return []
 
-        # If the standard section is not found, look for a simple list of mods
-        logging.warning(f"No mod list found in {input_source}. Trying to extract simple mod list...")
-        return parse_simple_mod_list(content)
-    
-    except Exception as e:
-        logging.error(f"Error extracting mods: {e}")
-        return []
+    else:  # Detailed mod loading section case
+        for line in mod_section.group(1).splitlines():
+            if line.startswith('- '):
+                parts = line[2:].split(' ', 1)  # Split on the first space
+                mod_name = parts[0].strip()
+                version = parts[1].strip() if len(parts) > 1 else "N/A"
+                mods.append((mod_name, version))
+
+    logging.info(f"Extracted {len(mods)} mods from {input_source}")
+    logging.debug(f"First 5 mods: {mods[:5]}")  # Optional: Display a sample
+
+    return mods
 
 def parse_mod_section(mod_section):
     mods = []
