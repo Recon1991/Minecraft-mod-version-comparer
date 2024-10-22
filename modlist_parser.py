@@ -6,14 +6,10 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-import logging
-import re
-import requests
-
 def extract_mods_from_log(input_source):
     logging.info(f"Extracting mods from: {input_source}")
 
-    # Check if input source is a URL or a file path
+    # Check if input source is a URL or a file path(txt, log, etc)
     if input_source.startswith("http://") or input_source.startswith("https://"):
         response = requests.get(input_source)
         content = response.text
@@ -66,7 +62,6 @@ def extract_mods_from_log(input_source):
 
     return mods
 
-
 def compare_mods(mods1, mods2):
     logging.info("Comparing mods...")
 
@@ -109,7 +104,6 @@ def write_to_csv(data, output_file="mod_comparison.csv"):
             writer.writerow(row)
 
     logging.info("CSV writing completed.")
- 
 
 def main():
     if len(sys.argv) < 3:

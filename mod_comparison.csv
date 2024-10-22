@@ -1,310 +1,311 @@
 Mod Name (Link1),Version (Link1),Mod Name (Link2),Version (Link2),Comparison Result
--,com_akuleshov7_ktoml-core-jvm 0.5.1,-,com_akuleshov7_ktoml-core-jvm 0.5.1,Match
-Mod,N/A,Mod,"'JourneyMapIntegration' (jmi) 1.20.1-0.14-48 recommends version 14 or later of waystones, which is missing!",Missing in Link1
-You,N/A,You,should install version 14 or later of waystones for the optimal experience.,Missing in Link1
-a_man_with_plushies,4.2.0,a_man_with_plushies,4.2.0,Match
-alloy_forgery,2.1.2+1.20,alloy_forgery,2.1.2+1.20,Match
-almostunified,1.20.1-0.9.4,almostunified,1.20.1-0.9.4,Match
-alternate-current,1.9.0,alternate-current,1.9.0,Match
-amendments,1.20-1.2.11,amendments,1.20-1.2.11,Match
-another_furniture,1.20.1-3.0.1,another_furniture,1.20.1-3.0.1,Match
-appleskin,2.5.1+mc1.20,appleskin,2.5.1+mc1.20,Match
-architectury,9.2.14,architectury,9.2.14,Match
-artifacts,9.5.13,artifacts,9.5.13,Match
-athena,3.1.2,athena,3.1.2,Match
-attributefix,21.0.4,attributefix,21.0.4,Match
-authme,7.0.2+1.20,authme,7.0.2+1.20,Match
-automobility,0.4.2+1.20.1-fabric,automobility,0.4.2+1.20.1-fabric,Match
-axolotlitemfix,1.1.7,axolotlitemfix,1.1.7,Match
-bakery,1.1.15,bakery,1.1.15,Match
-balm-fabric,7.3.9,balm-fabric,7.3.9,Match
-barteringstation,8.0.0,barteringstation,8.0.0,Match
-bbb,1.20.1-fabric-1.0.2,bbb,1.20.1-fabric-1.0.2,Match
-bcg_smp,1.0.1,bcg_smp,1.0.1,Match
-bcgmusic,1.1.0-1.20.1,bcgmusic,1.1.0-1.20.1,Match
-bcgutil,1.0.5,bcgutil,1.0.5,Match
-bclib,3.0.14,bclib,3.0.14,Match
-beautify,1.2.0+1.20.1,beautify,1.2.0+1.20.1,Match
-bedbenefits,13.0.3,bedbenefits,13.0.3,Match
-beekeeperhut,2.0.1,beekeeperhut,2.0.1,Match
-better_climbing,3,better_climbing,3,Match
-betterbeds,1.3.0,betterbeds,1.3.0,Match
-bettercombat,1.8.6+1.20.1,bettercombat,1.8.6+1.20.1,Match
-betterdungeons,1.20-Fabric-4.0.4,betterdungeons,1.20-Fabric-4.0.4,Match
-betterend,4.0.11,betterend,4.0.11,Match
-betterendisland,1.20-Fabric-2.0.6,betterendisland,1.20-Fabric-2.0.6,Match
-bettermineshafts,1.20-Fabric-4.0.4,bettermineshafts,1.20-Fabric-4.0.4,Match
-betteroceanmonuments,1.20-Fabric-3.0.4,betteroceanmonuments,1.20-Fabric-3.0.4,Match
-betterstrongholds,1.20-Fabric-4.0.3,betterstrongholds,1.20-Fabric-4.0.3,Match
-betterthirdperson,1.9.0,betterthirdperson,1.9.0,Match
-bhmenu,2.4.1,bhmenu,2.4.1,Match
-bitsandchisels,2.7.3,bitsandchisels,2.7.3,Match
-blahaj,0.3.2,blahaj,0.3.2,Match
-boatbreakfix,1.0.2,boatbreakfix,1.0.2,Match
-bookshelf,20.2.13,bookshelf,20.2.13,Match
-brewery,1.1.9,brewery,1.1.9,Match
-bwncr,3.17.0,bwncr,3.17.0,Match
-candlelight,1.2.13,candlelight,1.2.13,Match
-cardinal-components,5.2.2,cardinal-components,5.2.2,Match
-carryon,**.**.**.**,carryon,**.**.**.**,Match
-charmofundying,6.5.0+1.20.1,charmofundying,6.5.0+1.20.1,Match
-chat_heads,0.13.3,chat_heads,0.13.3,Match
-chefsdelight,1.0.3-fabric-1.20.1,chefsdelight,1.0.3-fabric-1.20.1,Match
-chimes,2.0.1,chimes,2.0.1,Match
-chipped,3.0.6,chipped,3.0.6,Match
-clickadv,1.20.1-3.8,clickadv,1.20.1-3.8,Match
-cloth-config,11.1.136,cloth-config,11.1.136,Match
-clumps,**.**.**.**,clumps,**.**.**.**,Match
-cobbledex,1.1.0,cobbledex,1.1.0,Match
-cobblemon,1.5.2+1.20.1,cobblemon,1.5.2+1.20.1,Match
-cobblemon-ui-tweaks,1.0.6,cobblemon-ui-tweaks,1.0.6,Match
-cobblemon_capturexp,1.5-fabric-1.0.1,cobblemon_capturexp,1.5-fabric-1.0.1,Match
-cobblemon_quests,1.1.11,cobblemon_quests,1.1.11,Match
-cobblemon_spawn_notification,1.5-fabric-1.1.1,cobblemon_spawn_notification,1.5-fabric-1.1.1,Match
-cobblepedia,0.6.8,cobblepedia,0.6.8,Match
-cobbreeding,1.7.2,cobbreeding,1.7.2,Match
-collective,7.84,collective,7.84,Match
-comforts,6.4.0+1.20.1,comforts,6.4.0+1.20.1,Match
-commonnetworking,1.0.5-1.20.1,commonnetworking,1.0.5-1.20.1,Match
-compact_storage,**.**.**.**,compact_storage,**.**.**.**,Match
-connectivity,1.20.1-5.8,connectivity,1.20.1-5.8,Match
-controlling,12.0.2,controlling,12.0.2,Match
-convenientdecor,0.4.3,convenientdecor,0.4.3,Match
-copycats,2.1.4+mc.1.20.1-fabric,copycats,2.1.4+mc.1.20.1-fabric,Match
-coroutil,1.20.1-1.3.7,coroutil,1.20.1-1.3.7,Match
-crawl,0.12.0,crawl,0.12.0,Match
-create,0.5.1-f-build.1417+mc1.20.1,create,0.5.1-f-build.1417+mc1.20.1,Match
-create_cobblemon,0.4,create_cobblemon,0.4,Match
-create_enchantment_industry,1.2.16,create_enchantment_industry,1.2.16,Match
-createaddition,1.2.4,createaddition,1.2.4,Match
-createbigcannons,5.5.1+mc.1.20.1-fabric,createbigcannons,5.5.1+mc.1.20.1-fabric,Match
-createdeco,2.0.2-1.20.1-fabric,createdeco,2.0.2-1.20.1-fabric,Match
-creeperoverhaul,3.0.2,creeperoverhaul,3.0.2,Match
-cupboard,1.20.1-2.7,cupboard,1.20.1-2.7,Match
-customcursorcomm,1.2.0,customcursorcomm,1.2.0,Match
-dailyshop,1.0.2,dailyshop,1.0.2,Match
-darkutils,17.0.5,darkutils,17.0.5,Match
-debugify,1.20.1+2.0,debugify,1.20.1+2.0,Match
-design_decor,0.4.0b_fabric+1.20.1,design_decor,0.4.0b_fabric+1.20.1,Match
-deuf_refabricated,1.1.0,deuf_refabricated,1.1.0,Match
-diagonalfences,8.1.4,diagonalfences,8.1.4,Match
-diagonalwalls,8.0.3,diagonalwalls,8.0.3,Match
-diagonalwindows,8.1.4,diagonalwindows,8.1.4,Match
-dimensionalsyncfixes,1.20.1-0.0.2,dimensionalsyncfixes,1.20.1-0.0.2,Match
-doapi,1.2.15,doapi,1.2.15,Match
-dragonfight,1.20.1-4.6,dragonfight,1.20.1-4.6,Match
-drippyloadingscreen,3.0.8,drippyloadingscreen,3.0.8,Match
-e4mc_minecraft,5.2.1,e4mc_minecraft,5.2.1,Match
-easyanvils,8.0.2,easyanvils,8.0.2,Match
-easymagic,8.0.1,easymagic,8.0.1,Match
-elytraslot,6.4.4+1.20.1,elytraslot,6.4.4+1.20.1,Match
-emi,1.1.16+1.20.1+fabric,emi,1.1.16+1.20.1+fabric,Match
-emi_letsdo_compat,1.3,emi_letsdo_compat,1.3,Match
-endermanoverhaul,1.0.4,endermanoverhaul,1.0.4,Match
-endrem,5.2.4,endrem,5.2.4,Match
-ends_delight,2.1,ends_delight,2.1,Match
-entity_model_features,2.2.6,entity_model_features,2.2.6,Match
-entity_texture_features,6.2.5,entity_texture_features,6.2.5,Match
-entityculling,1.7.0,entityculling,1.7.0,Match
-everycomp,1.20-2.6.82,everycomp,1.20-2.6.82,Match
-expandeddelight,0.3.2,expandeddelight,0.3.2,Match
-explorerscompass,1.20.1-2.2.3-fabric,explorerscompass,1.20.1-2.2.3-fabric,Match
-explosiveenhancement,1.2.2-1.20.x,explosiveenhancement,1.2.2-1.20.x,Match
-exposure,1.7.7,exposure,1.7.7,Match
-extendedgears,2.1.1-1.20.1-0.5.1.f-fabric,extendedgears,2.1.1-1.20.1-0.5.1.f-fabric,Match
-fabric-api,0.92.2+1.20.1,fabric-api,0.92.2+1.20.1,Match
-fabric-language-kotlin,1.12.2+kotlin.2.0.20,fabric-language-kotlin,1.12.2+kotlin.2.0.20,Match
-fabricloader,0.16.5,fabricloader,0.16.5,Match
-fallingleaves,1.15.6,fallingleaves,1.15.6,Match
-fancymenu,3.2.3,fancymenu,3.2.3,Match
-farmersdelight,1.20.1-2.1.6+refabricated,farmersdelight,1.20.1-2.1.6+refabricated,Match
-farsight,1.20.1-4.3,farsight,1.20.1-4.3,Match
-faster-random,5.1.0,faster-random,5.1.0,Match
-fastipping,1.0.5,fastipping,1.0.5,Match
-fastpaintings,1.20-1.2.7,fastpaintings,1.20-1.2.7,Match
-ferritecore,6.0.1,ferritecore,6.0.1,Match
-fightorflight,0.5.0,fightorflight,0.5.0,Match
-flowerymooblooms,2.0.2,flowerymooblooms,2.0.2,Match
-forgeconfigapiport,8.0.0,forgeconfigapiport,8.0.0,Match
-framework,0.6.16,framework,0.6.16,Match
-friendsandfoes,3.0.3,friendsandfoes,3.0.3,Match
-ftbchunks,2001.3.1,ftbchunks,2001.3.1,Match
-ftbessentials,2001.2.2,ftbessentials,2001.2.2,Match
-ftblibrary,2001.2.4,ftblibrary,2001.2.4,Match
-ftbquests,2001.4.8,ftbquests,2001.4.8,Match
-ftbteams,2001.3.0,ftbteams,2001.3.0,Match
-ftbultimine,2001.1.5,ftbultimine,2001.1.5,Match
-ftbxmodcompat,2.1.1,ftbxmodcompat,2.1.1,Match
-fwaystones,3.3.2+mc1.20.1,fwaystones,3.3.2+mc1.20.1,Match
-fzzy_config,0.5.2+1.20.1,fzzy_config,0.5.2+1.20.1,Match
-geckolib,4.4.9,geckolib,4.4.9,Match
-getittogetherdrops,fabric-1.20-1.3.1,getittogetherdrops,fabric-1.20-1.3.1,Match
-globalpacks,1.16.1_fabric,globalpacks,1.16.1_fabric,Match
-go-fish,1.6.3+1.20.1,go-fish,1.6.3+1.20.1,Match
-gpumemleakfix,1.20.1-1.8,gpumemleakfix,1.20.1-1.8,Match
-grindenchantments,3.1.2+1.20,grindenchantments,3.1.2+1.20,Match
-guarding,2.4.0,guarding,2.4.0,Match
-guardvillagers,2.0.9-1.20.1,guardvillagers,2.0.9-1.20.1,Match
-gymbadges,1.0,gymbadges,1.0,Match
-hamsters,fabric-1.0.3-1.20.1,hamsters,fabric-1.0.3-1.20.1,Match
-handcrafted,3.0.6,handcrafted,3.0.6,Match
-healingcampfire,6.1,healingcampfire,6.1,Match
-herbalbrews,**.**.**.**,herbalbrews,**.**.**.**,Match
-herdspanic,1.1.0,herdspanic,1.1.0,Match
-horseexpert,8.1.1,horseexpert,8.1.1,Match
-icarus,2.10.0,icarus,2.10.0,Match
-idwtialsimmoedm,0.3.1+1.20,idwtialsimmoedm,0.3.1+1.20,Match
-illagerinvasion,8.0.6,illagerinvasion,8.0.6,Match
-immediatelyfast,1.2.21+1.20.4,immediatelyfast,1.2.21+1.20.4,Match
-immersive_aircraft,1.1.2+1.20.1,immersive_aircraft,1.1.2+1.20.1,Match
-immersive_paintings,0.6.7+1.20.1,immersive_paintings,0.6.7+1.20.1,Match
-incantationem,1.2.1+1.20,incantationem,1.2.1+1.20,Match
-incendium,5.3.5,incendium,5.3.5,Match
-indium,1.0.34+mc1.20.1,indium,1.0.34+mc1.20.1,Match
-inventoryprofilesnext,1.10.10,inventoryprofilesnext,1.10.10,Match
-iris,1.7.2+mc1.20.1,iris,1.7.2+mc1.20.1,Match
-irisflw,1.1.2,irisflw,1.1.2,Match
-item_obliterator,2.3.0,item_obliterator,2.3.0,Match
-itemcollectors,1.1.10,itemcollectors,1.1.10,Match
-itemfilters,2001.1.0-build.59,itemfilters,2001.1.0-build.59,Match
-jade,11.11.0+fabric,jade,11.11.0+fabric,Match
-java,17,java,17,Match
-jmi,1.20.1-0.14-48,jmi,1.20.1-0.14-48,Match
-journeymap,5.10.3,journeymap,5.10.3,Match
-jumpoverfences,1.3.1,jumpoverfences,1.3.1,Match
-konkrete,1.8.1,konkrete,1.8.1,Match
-languagereload,1.6.1+1.20.1,languagereload,1.6.1+1.20.1,Match
-leavemybarsalone,8.0.0,leavemybarsalone,8.0.0,Match
-leavesbegone,8.0.0,leavesbegone,8.0.0,Match
-letmedespawn,1.3.2b,letmedespawn,1.3.2b,Match
-libipn,4.0.2,libipn,4.0.2,Match
-lithium,0.11.2,lithium,0.11.2,Match
-lmft,1.0.2+1.20,lmft,1.0.2+1.20,Match
-logbegone,1.0.8,logbegone,1.0.8,Match
-lootintegrations,1.20.1-3.7,lootintegrations,1.20.1-3.7,Match
-lootr,**.**.**.**,lootr,**.**.**.**,Match
-luphieclutteredmod,2.1.0+1.20.1,luphieclutteredmod,2.1.0+1.20.1,Match
-magnumtorch,8.0.2,magnumtorch,8.0.2,Match
-man_of_many_planes,0.2.0+1.20.1,man_of_many_planes,0.2.0+1.20.1,Match
-mavapi,1.1.4,mavapi,1.1.4,Match
-mavm,1.2.6,mavm,1.2.6,Match
-mcwbridges,3.0.0,mcwbridges,3.0.0,Match
-mcwdoors,1.1.1,mcwdoors,1.1.1,Match
-mcwfences,1.1.2,mcwfences,1.1.2,Match
-mcwfurnitures,3.3.0,mcwfurnitures,3.3.0,Match
-mcwholidays,1.1.0,mcwholidays,1.1.0,Match
-mcwlights,1.1.1,mcwlights,1.1.1,Match
-mcwpaths,1.0.5,mcwpaths,1.0.5,Match
-mcwroofs,2.3.1,mcwroofs,2.3.1,Match
-mcwtrpdoors,1.1.3,mcwtrpdoors,1.1.3,Match
-mcwwindows,2.3.0,mcwwindows,2.3.0,Match
-megamons,1.5.0+1.20.1-forge+fabric-75b66fa,megamons,1.5.0+1.20.1-forge+fabric-75b66fa,Match
-melody,1.0.3,melody,1.0.3,Match
-memoryleakfix,1.1.2,memoryleakfix,1.1.2,Match
-mighty_mail,1.0.14,mighty_mail,1.0.14,Match
-mine-spawners,1.0,mine-spawners,1.0,Match
-minecraft,1.20.1,minecraft,1.20.1,Match
-minecraft:overworld:,N/A,minecraft:overworld:,net.minecraft.class_3754@55d3a8f9,Missing in Link1
-minecraft:the_end:,N/A,minecraft:the_end:,BCLib - Chunk Generator (80d576),Missing in Link1
-minecraft:the_nether:,N/A,minecraft:the_nether:,BCLib - Chunk Generator (1526f9f7),Missing in Link1
-mixintrace,1.1.1+1.17,mixintrace,1.1.1+1.17,Match
-modelfix,1.15,modelfix,1.15,Match
-modernfix,5.19.4+mc1.20.1,modernfix,5.19.4+mc1.20.1,Match
-modmenu,7.2.2,modmenu,7.2.2,Match
-moonlight,1.20-2.13.4,moonlight,1.20-2.13.4,Match
-more-axolotl,2.0.1,more-axolotl,2.0.1,Match
-mousetweaks,2.26,mousetweaks,2.26,Match
-mr_remove_terralithintromessage,1.0,mr_remove_terralithintromessage,1.0,Match
-mss,1.1.2-1.20-fabric,mss,1.1.2-1.20-fabric,Match
-mvs,4.1.4-1.20-fabric,mvs,4.1.4-1.20-fabric,Match
-mythicmetals,0.19.9+1.20.1,mythicmetals,0.19.9+1.20.1,Match
-naturalist,4.0.3,naturalist,4.0.3,Match
-naturescompass,1.20.1-2.2.3-fabric,naturescompass,1.20.1-2.2.3-fabric,Match
-necronomicon,1.6.0,necronomicon,1.6.0,Match
-neruina,2.1.2,neruina,2.1.2,Match
-netherportalfix,13.0.1,netherportalfix,13.0.1,Match
-nightlights,1.1,nightlights,1.1,Match
-nochatreports,1.20.1-v2.2.2,nochatreports,1.20.1-v2.2.2,Match
-notenoughanimations,1.7.6,notenoughanimations,1.7.6,Match
-oceansdelight,fdrf-fabric-1.0.2-1.20,oceansdelight,fdrf-fabric-1.0.2-1.20,Match
-overflowingbars,8.0.1,overflowingbars,8.0.1,Match
-owo,0.11.2+1.20,owo,0.11.2+1.20,Match
-packetfixer,1.4.2,packetfixer,1.4.2,Match
-particle_core,0.2.5+1.20.1,particle_core,0.2.5+1.20.1,Match
-patchouli,1.20.1-84-FABRIC,patchouli,1.20.1-84-FABRIC,Match
-pehkui,3.8.3+1.14.4-1.21,pehkui,3.8.3+1.14.4-1.21,Match
-permanentsponges,8.1.2,permanentsponges,8.1.2,Match
-pigpen,15.0.2,pigpen,15.0.2,Match
-ping-wheel,1.9.1,ping-wheel,1.9.1,Match
-player-animator,1.0.2-rc1+1.20,player-animator,1.0.2-rc1+1.20,Match
-plushies,1.4.0,plushies,1.4.0,Match
-polymorph,0.49.7+1.20.1,polymorph,0.49.7+1.20.1,Match
-puzzleslib,8.1.24,puzzleslib,8.1.24,Match
-railways,1.6.4+fabric-mc1.20.1,railways,1.6.4+fabric-mc1.20.1,Match
-reacharound,1.3.0,reacharound,1.3.0,Match
-rebind_narrator,2.0.2,rebind_narrator,2.0.2,Match
-recipeessentials,1.20.1-3.6,recipeessentials,1.20.1-3.6,Match
-reeses-sodium-options,1.7.2+mc1.20.1-build.101,reeses-sodium-options,1.7.2+mc1.20.1-build.101,Match
-resourcefulconfig,2.1.2,resourcefulconfig,2.1.2,Match
-resourcefullib,2.1.29,resourcefullib,2.1.29,Match
-resourcepackoverrides,8.0.3,resourcepackoverrides,8.0.3,Match
-ribbits,1.20.1-Fabric-3.0.0,ribbits,1.20.1-Fabric-3.0.0,Match
-runelic,18.0.2,runelic,18.0.2,Match
-sdrp,4.0.3-build.40+mc1.20.1,sdrp,4.0.3-build.40+mc1.20.1,Match
-searchables,1.0.3,searchables,1.0.3,Match
-seasonhud,1.9.6,seasonhud,1.9.6,Match
-seasons,2.3+1.20,seasons,2.3+1.20,Match
-seasonsdelightcompat,1.0-1.3.9,seasonsdelightcompat,1.0-1.3.9,Match
-seasonsterralithcompat,1.0-2.3.7,seasonsterralithcompat,1.0-2.3.7,Match
-sellingbin,1.0.9,sellingbin,1.0.9,Match
-serverredirect,1.4.5,serverredirect,1.4.5,Match
-shadertoggle,1.0,shadertoggle,1.0,Match
-simplehats,1.20.1-0.3.2,simplehats,1.20.1-0.3.2,Match
-simpletms,1.1.2,simpletms,1.1.2,Match
-simplyswords,1.56.0-1.20.1,simplyswords,1.56.0-1.20.1,Match
-sliceanddice,3.3.1,sliceanddice,3.3.1,Match
-smallships,2.0.0-b1.4,smallships,2.0.0-b1.4,Match
-sodium,0.5.11+mc1.20.1,sodium,0.5.11+mc1.20.1,Match
-sodium-extra,0.5.4+mc1.20.1-build.115,sodium-extra,0.5.4+mc1.20.1-build.115,Match
-spark,1.10.53,spark,1.10.53,Match
-spiceoffabric,1.6.2+mc1.20.1,spiceoffabric,1.6.2+mc1.20.1,Match
-stacc,1.7.0,stacc,1.7.0,Match
-starterkit,7.1,starterkit,7.1,Match
-strawstatues,8.0.3,strawstatues,8.0.3,Match
-structory,1.3.5,structory,1.3.5,Match
-structory_towers,1.0.7,structory_towers,1.0.7,Match
-structureessentials,1.20.1-3.4,structureessentials,1.20.1-3.4,Match
-stylisheffects,8.0.2,stylisheffects,8.0.2,Match
-supermartijn642configlib,1.1.8+a,supermartijn642configlib,1.1.8+a,Match
-supermartijn642corelib,1.1.17+a,supermartijn642corelib,1.1.17+a,Match
-supplementaries,1.20-2.8.17,supplementaries,1.20-2.8.17,Match
-suppsquared,1.20-1.1.15,suppsquared,1.20-1.1.15,Match
-terrablender,**.**.**.**,terrablender,**.**.**.**,Match
-terralith,2.5.4,terralith,2.5.4,Match
-thiccpackets,1.17-1.19+,thiccpackets,1.17-1.19+,Match
-things,0.3.3+1.20,things,0.3.3+1.20,Match
-toms_storage,1.6.8,toms_storage,1.6.8,Match
-toolstats,16.0.9,toolstats,16.0.9,Match
-trade_cycling,1.20.1-1.0.7,trade_cycling,1.20.1-1.0.7,Match
-tradingpost,8.0.2,tradingpost,8.0.2,Match
-trashcans,1.0.18,trashcans,1.0.18,Match
-travelersbackpack,9.1.17,travelersbackpack,9.1.17,Match
-trinkets,3.7.2,trinkets,3.7.2,Match
-ubesdelight,0.2.0,ubesdelight,0.2.0,Match
-universal_shops,1.3.2+1.20.1,universal_shops,1.3.2+1.20.1,Match
-vanityslots,1.2.9,vanityslots,1.2.9,Match
-villagernames,8.1,villagernames,8.1,Match
-vinery,1.4.28,vinery,1.4.28,Match
-visualworkbench,8.0.0,visualworkbench,8.0.0,Match
-voicechat,1.20.1-2.5.24,voicechat,1.20.1-2.5.24,Match
-wands,2.6.9-release,wands,2.6.9-release,Match
-watut,1.20.1-1.1.3,watut,1.20.1-1.1.3,Match
-xercamusic,fabric-1.20.1-1.0.2,xercamusic,fabric-1.20.1-1.0.2,Match
-xercapaint,fabric-1.20.1-1.0.1,xercapaint,fabric-1.20.1-1.0.1,Match
-yet_another_config_lib_v3,3.5.0+1.20.1-fabric,yet_another_config_lib_v3,3.5.0+1.20.1-fabric,Match
-yigd,2.0.9,yigd,2.0.9,Match
-yosbr,0.1.2,yosbr,0.1.2,Match
-ysns,2.0.1,ysns,2.0.1,Match
-yungsapi,1.20-Fabric-4.0.6,yungsapi,1.20-Fabric-4.0.6,Match
-yungsextras,1.20-Fabric-4.0.3,yungsextras,1.20-Fabric-4.0.3,Match
-zoomify,2.14.0+1.20.1,zoomify,2.14.0+1.20.1,Match
+-,com_akuleshov7_ktoml-core-jvm 0.5.1,-,N/A,Missing in Link2
+--,N/A,--,Minecraft Crash Report ----,Missing in Link1
+-------------------------------------------------------------------------------------,N/A,-------------------------------------------------------------------------------------,-- Cobblemon --,Missing in Link1
+Mod,"'JourneyMapIntegration' (jmi) 1.20.1-0.14-48 recommends version 14 or later of waystones, which is missing!",Mod,N/A,Missing in Link2
+System,N/A,System,Details --,Missing in Link1
+You,should install version 14 or later of waystones for the optimal experience.,You,N/A,Missing in Link2
+a_man_with_plushies,4.2.0,a_man_with_plushies,N/A,Missing in Link2
+alloy_forgery,2.1.2+1.20,alloy_forgery,N/A,Missing in Link2
+almostunified,1.20.1-0.9.4,almostunified,N/A,Missing in Link2
+alternate-current,1.9.0,alternate-current,N/A,Missing in Link2
+amendments,1.20-1.2.11,amendments,N/A,Missing in Link2
+another_furniture,1.20.1-3.0.1,another_furniture,N/A,Missing in Link2
+appleskin,2.5.1+mc1.20,appleskin,N/A,Missing in Link2
+architectury,9.2.14,architectury,N/A,Missing in Link2
+artifacts,9.5.13,artifacts,N/A,Missing in Link2
+athena,3.1.2,athena,N/A,Missing in Link2
+attributefix,21.0.4,attributefix,N/A,Missing in Link2
+authme,7.0.2+1.20,authme,N/A,Missing in Link2
+automobility,0.4.2+1.20.1-fabric,automobility,N/A,Missing in Link2
+axolotlitemfix,1.1.7,axolotlitemfix,N/A,Missing in Link2
+bakery,1.1.15,bakery,N/A,Missing in Link2
+balm-fabric,7.3.9,balm-fabric,N/A,Missing in Link2
+barteringstation,8.0.0,barteringstation,N/A,Missing in Link2
+bbb,1.20.1-fabric-1.0.2,bbb,N/A,Missing in Link2
+bcg_smp,1.0.1,bcg_smp,N/A,Missing in Link2
+bcgmusic,1.1.0-1.20.1,bcgmusic,N/A,Missing in Link2
+bcgutil,1.0.5,bcgutil,N/A,Missing in Link2
+bclib,3.0.14,bclib,N/A,Missing in Link2
+beautify,1.2.0+1.20.1,beautify,N/A,Missing in Link2
+bedbenefits,13.0.3,bedbenefits,N/A,Missing in Link2
+beekeeperhut,2.0.1,beekeeperhut,N/A,Missing in Link2
+better_climbing,3,better_climbing,N/A,Missing in Link2
+betterbeds,1.3.0,betterbeds,N/A,Missing in Link2
+bettercombat,1.8.6+1.20.1,bettercombat,N/A,Missing in Link2
+betterdungeons,1.20-Fabric-4.0.4,betterdungeons,N/A,Missing in Link2
+betterend,4.0.11,betterend,N/A,Missing in Link2
+betterendisland,1.20-Fabric-2.0.6,betterendisland,N/A,Missing in Link2
+bettermineshafts,1.20-Fabric-4.0.4,bettermineshafts,N/A,Missing in Link2
+betteroceanmonuments,1.20-Fabric-3.0.4,betteroceanmonuments,N/A,Missing in Link2
+betterstrongholds,1.20-Fabric-4.0.3,betterstrongholds,N/A,Missing in Link2
+betterthirdperson,1.9.0,betterthirdperson,N/A,Missing in Link2
+bhmenu,2.4.1,bhmenu,N/A,Missing in Link2
+bitsandchisels,2.7.3,bitsandchisels,N/A,Missing in Link2
+blahaj,0.3.2,blahaj,N/A,Missing in Link2
+boatbreakfix,1.0.2,boatbreakfix,N/A,Missing in Link2
+bookshelf,20.2.13,bookshelf,N/A,Missing in Link2
+brewery,1.1.9,brewery,N/A,Missing in Link2
+bwncr,3.17.0,bwncr,N/A,Missing in Link2
+candlelight,1.2.13,candlelight,N/A,Missing in Link2
+cardinal-components,5.2.2,cardinal-components,N/A,Missing in Link2
+carryon,2.1.2.7,carryon,N/A,Missing in Link2
+charmofundying,6.5.0+1.20.1,charmofundying,N/A,Missing in Link2
+chat_heads,0.13.3,chat_heads,N/A,Missing in Link2
+chefsdelight,1.0.3-fabric-1.20.1,chefsdelight,N/A,Missing in Link2
+chimes,2.0.1,chimes,N/A,Missing in Link2
+chipped,3.0.6,chipped,N/A,Missing in Link2
+clickadv,1.20.1-3.8,clickadv,N/A,Missing in Link2
+cloth-config,11.1.136,cloth-config,N/A,Missing in Link2
+clumps,12.0.0.4,clumps,N/A,Missing in Link2
+cobbledex,1.1.0,cobbledex,N/A,Missing in Link2
+cobblemon,1.5.2+1.20.1,cobblemon,N/A,Missing in Link2
+cobblemon-ui-tweaks,1.0.6,cobblemon-ui-tweaks,N/A,Missing in Link2
+cobblemon_capturexp,1.5-fabric-1.0.1,cobblemon_capturexp,N/A,Missing in Link2
+cobblemon_quests,1.1.11,cobblemon_quests,N/A,Missing in Link2
+cobblemon_spawn_notification,1.5-fabric-1.1.1,cobblemon_spawn_notification,N/A,Missing in Link2
+cobblepedia,0.6.8,cobblepedia,N/A,Missing in Link2
+cobbreeding,1.7.2,cobbreeding,N/A,Missing in Link2
+collective,7.84,collective,N/A,Missing in Link2
+comforts,6.4.0+1.20.1,comforts,N/A,Missing in Link2
+commonnetworking,1.0.5-1.20.1,commonnetworking,N/A,Missing in Link2
+compact_storage,6.0.1.64,compact_storage,N/A,Missing in Link2
+connectivity,1.20.1-5.8,connectivity,N/A,Missing in Link2
+controlling,12.0.2,controlling,N/A,Missing in Link2
+convenientdecor,0.4.3,convenientdecor,N/A,Missing in Link2
+copycats,2.1.4+mc.1.20.1-fabric,copycats,N/A,Missing in Link2
+coroutil,1.20.1-1.3.7,coroutil,N/A,Missing in Link2
+crawl,0.12.0,crawl,N/A,Missing in Link2
+create,0.5.1-f-build.1417+mc1.20.1,create,N/A,Missing in Link2
+create_cobblemon,0.4,create_cobblemon,N/A,Missing in Link2
+create_enchantment_industry,1.2.16,create_enchantment_industry,N/A,Missing in Link2
+createaddition,1.2.4,createaddition,N/A,Missing in Link2
+createbigcannons,5.5.1+mc.1.20.1-fabric,createbigcannons,N/A,Missing in Link2
+createdeco,2.0.2-1.20.1-fabric,createdeco,N/A,Missing in Link2
+creeperoverhaul,3.0.2,creeperoverhaul,N/A,Missing in Link2
+cupboard,1.20.1-2.7,cupboard,N/A,Missing in Link2
+customcursorcomm,1.2.0,customcursorcomm,N/A,Missing in Link2
+dailyshop,1.0.2,dailyshop,N/A,Missing in Link2
+darkutils,17.0.5,darkutils,N/A,Missing in Link2
+debugify,1.20.1+2.0,debugify,N/A,Missing in Link2
+design_decor,0.4.0b_fabric+1.20.1,design_decor,N/A,Missing in Link2
+deuf_refabricated,1.1.0,deuf_refabricated,N/A,Missing in Link2
+diagonalfences,8.1.4,diagonalfences,N/A,Missing in Link2
+diagonalwalls,8.0.3,diagonalwalls,N/A,Missing in Link2
+diagonalwindows,8.1.4,diagonalwindows,N/A,Missing in Link2
+dimensionalsyncfixes,1.20.1-0.0.2,dimensionalsyncfixes,N/A,Missing in Link2
+distanthorizons,2.2.1-a,distanthorizons,N/A,Missing in Link2
+doapi,1.2.15,doapi,N/A,Missing in Link2
+dragonfight,1.20.1-4.6,dragonfight,N/A,Missing in Link2
+drippyloadingscreen,3.0.8,drippyloadingscreen,N/A,Missing in Link2
+e4mc_minecraft,5.2.1,e4mc_minecraft,N/A,Missing in Link2
+easyanvils,8.0.2,easyanvils,N/A,Missing in Link2
+easymagic,8.0.1,easymagic,N/A,Missing in Link2
+elytraslot,6.4.4+1.20.1,elytraslot,N/A,Missing in Link2
+emi,1.1.16+1.20.1+fabric,emi,N/A,Missing in Link2
+emi_letsdo_compat,1.3,emi_letsdo_compat,N/A,Missing in Link2
+endermanoverhaul,1.0.4,endermanoverhaul,N/A,Missing in Link2
+endrem,5.2.4,endrem,N/A,Missing in Link2
+ends_delight,2.1,ends_delight,N/A,Missing in Link2
+entity_model_features,2.2.6,entity_model_features,N/A,Missing in Link2
+entity_texture_features,6.2.5,entity_texture_features,N/A,Missing in Link2
+entityculling,1.7.0,entityculling,N/A,Missing in Link2
+everycomp,1.20-2.6.82,everycomp,N/A,Missing in Link2
+expandeddelight,0.3.2,expandeddelight,N/A,Missing in Link2
+explorerscompass,1.20.1-2.2.3-fabric,explorerscompass,N/A,Missing in Link2
+explosiveenhancement,1.2.2-1.20.x,explosiveenhancement,N/A,Missing in Link2
+exposure,1.7.7,exposure,N/A,Missing in Link2
+extendedgears,2.1.1-1.20.1-0.5.1.f-fabric,extendedgears,N/A,Missing in Link2
+fabric-api,0.92.2+1.20.1,fabric-api,N/A,Missing in Link2
+fabric-language-kotlin,1.12.2+kotlin.2.0.20,fabric-language-kotlin,N/A,Missing in Link2
+fabricloader,0.16.5,fabricloader,N/A,Missing in Link2
+fallingleaves,1.15.6,fallingleaves,N/A,Missing in Link2
+fancymenu,3.2.3,fancymenu,N/A,Missing in Link2
+farmersdelight,1.20.1-2.1.6+refabricated,farmersdelight,N/A,Missing in Link2
+farsight,1.20.1-4.3,farsight,N/A,Missing in Link2
+faster-random,5.1.0,faster-random,N/A,Missing in Link2
+fastipping,1.0.5,fastipping,N/A,Missing in Link2
+fastpaintings,1.20-1.2.7,fastpaintings,N/A,Missing in Link2
+ferritecore,6.0.1,ferritecore,N/A,Missing in Link2
+fightorflight,0.5.0,fightorflight,N/A,Missing in Link2
+flowerymooblooms,2.0.2,flowerymooblooms,N/A,Missing in Link2
+forgeconfigapiport,8.0.0,forgeconfigapiport,N/A,Missing in Link2
+framework,0.6.16,framework,N/A,Missing in Link2
+friendsandfoes,3.0.3,friendsandfoes,N/A,Missing in Link2
+ftbchunks,2001.3.1,ftbchunks,N/A,Missing in Link2
+ftbessentials,2001.2.2,ftbessentials,N/A,Missing in Link2
+ftblibrary,2001.2.4,ftblibrary,N/A,Missing in Link2
+ftbquests,2001.4.8,ftbquests,N/A,Missing in Link2
+ftbteams,2001.3.0,ftbteams,N/A,Missing in Link2
+ftbultimine,2001.1.5,ftbultimine,N/A,Missing in Link2
+ftbxmodcompat,2.1.1,ftbxmodcompat,N/A,Missing in Link2
+fwaystones,3.3.2+mc1.20.1,fwaystones,N/A,Missing in Link2
+fzzy_config,0.5.2+1.20.1,fzzy_config,N/A,Missing in Link2
+geckolib,4.4.9,geckolib,N/A,Missing in Link2
+getittogetherdrops,fabric-1.20-1.3.1,getittogetherdrops,N/A,Missing in Link2
+globalpacks,1.16.1_fabric,globalpacks,N/A,Missing in Link2
+go-fish,1.6.3+1.20.1,go-fish,N/A,Missing in Link2
+gpumemleakfix,1.20.1-1.8,gpumemleakfix,N/A,Missing in Link2
+grindenchantments,3.1.2+1.20,grindenchantments,N/A,Missing in Link2
+guarding,2.4.0,guarding,N/A,Missing in Link2
+guardvillagers,2.0.9-1.20.1,guardvillagers,N/A,Missing in Link2
+gymbadges,1.0,gymbadges,N/A,Missing in Link2
+hamsters,fabric-1.0.3-1.20.1,hamsters,N/A,Missing in Link2
+handcrafted,3.0.6,handcrafted,N/A,Missing in Link2
+healingcampfire,6.1,healingcampfire,N/A,Missing in Link2
+herbalbrews,1.0.8.1,herbalbrews,N/A,Missing in Link2
+herdspanic,1.1.0,herdspanic,N/A,Missing in Link2
+horseexpert,8.1.1,horseexpert,N/A,Missing in Link2
+icarus,2.10.0,icarus,N/A,Missing in Link2
+idwtialsimmoedm,0.3.1+1.20,idwtialsimmoedm,N/A,Missing in Link2
+illagerinvasion,8.0.6,illagerinvasion,N/A,Missing in Link2
+immediatelyfast,1.2.21+1.20.4,immediatelyfast,N/A,Missing in Link2
+immersive_aircraft,1.1.2+1.20.1,immersive_aircraft,N/A,Missing in Link2
+immersive_paintings,0.6.7+1.20.1,immersive_paintings,N/A,Missing in Link2
+incantationem,1.2.1+1.20,incantationem,N/A,Missing in Link2
+incendium,5.3.5,incendium,N/A,Missing in Link2
+indium,1.0.34+mc1.20.1,indium,N/A,Missing in Link2
+inventoryprofilesnext,1.10.10,inventoryprofilesnext,N/A,Missing in Link2
+iris,1.7.5+mc1.20.1,iris,N/A,Missing in Link2
+irisflw,1.1.4,irisflw,N/A,Missing in Link2
+item_obliterator,2.3.0,item_obliterator,N/A,Missing in Link2
+itemcollectors,1.1.10,itemcollectors,N/A,Missing in Link2
+itemfilters,2001.1.0-build.59,itemfilters,N/A,Missing in Link2
+jade,11.11.0+fabric,jade,N/A,Missing in Link2
+java,17,java,N/A,Missing in Link2
+jmi,1.20.1-0.14-48,jmi,N/A,Missing in Link2
+journeymap,5.10.3,journeymap,N/A,Missing in Link2
+jumpoverfences,1.3.1,jumpoverfences,N/A,Missing in Link2
+konkrete,1.8.1,konkrete,N/A,Missing in Link2
+languagereload,1.6.1+1.20.1,languagereload,N/A,Missing in Link2
+leavemybarsalone,8.0.0,leavemybarsalone,N/A,Missing in Link2
+leavesbegone,8.0.0,leavesbegone,N/A,Missing in Link2
+letmedespawn,1.3.2b,letmedespawn,N/A,Missing in Link2
+libipn,4.0.2,libipn,N/A,Missing in Link2
+lithium,0.11.2,lithium,N/A,Missing in Link2
+lmft,1.0.2+1.20,lmft,N/A,Missing in Link2
+logbegone,1.0.8,logbegone,N/A,Missing in Link2
+lootintegrations,1.20.1-3.7,lootintegrations,N/A,Missing in Link2
+lootr,0.7.34.84,lootr,N/A,Missing in Link2
+luphieclutteredmod,2.1.0+1.20.1,luphieclutteredmod,N/A,Missing in Link2
+magnumtorch,8.0.2,magnumtorch,N/A,Missing in Link2
+man_of_many_planes,0.2.0+1.20.1,man_of_many_planes,N/A,Missing in Link2
+mavapi,1.1.4,mavapi,N/A,Missing in Link2
+mavm,1.2.6,mavm,N/A,Missing in Link2
+mcwbridges,3.0.0,mcwbridges,N/A,Missing in Link2
+mcwdoors,1.1.1,mcwdoors,N/A,Missing in Link2
+mcwfences,1.1.2,mcwfences,N/A,Missing in Link2
+mcwfurnitures,3.3.0,mcwfurnitures,N/A,Missing in Link2
+mcwholidays,1.1.0,mcwholidays,N/A,Missing in Link2
+mcwlights,1.1.1,mcwlights,N/A,Missing in Link2
+mcwpaths,1.0.5,mcwpaths,N/A,Missing in Link2
+mcwroofs,2.3.1,mcwroofs,N/A,Missing in Link2
+mcwtrpdoors,1.1.3,mcwtrpdoors,N/A,Missing in Link2
+mcwwindows,2.3.0,mcwwindows,N/A,Missing in Link2
+megamons,1.5.0+1.20.1-forge+fabric-75b66fa,megamons,N/A,Missing in Link2
+melody,1.0.3,melody,N/A,Missing in Link2
+memoryleakfix,1.1.2,memoryleakfix,N/A,Missing in Link2
+mighty_mail,1.0.14,mighty_mail,N/A,Missing in Link2
+mine-spawners,1.0,mine-spawners,N/A,Missing in Link2
+minecraft,1.20.1,minecraft,N/A,Missing in Link2
+mixintrace,1.1.1+1.17,mixintrace,N/A,Missing in Link2
+modelfix,1.15,modelfix,N/A,Missing in Link2
+modernfix,5.19.4+mc1.20.1,modernfix,N/A,Missing in Link2
+modmenu,7.2.2,modmenu,N/A,Missing in Link2
+moonlight,1.20-2.13.4,moonlight,N/A,Missing in Link2
+more-axolotl,2.0.1,more-axolotl,N/A,Missing in Link2
+mousetweaks,2.26,mousetweaks,N/A,Missing in Link2
+mr_remove_terralithintromessage,1.0,mr_remove_terralithintromessage,N/A,Missing in Link2
+mss,1.1.2-1.20-fabric,mss,N/A,Missing in Link2
+mvs,4.1.4-1.20-fabric,mvs,N/A,Missing in Link2
+mythicmetals,0.19.9+1.20.1,mythicmetals,N/A,Missing in Link2
+naturalist,4.0.3,naturalist,N/A,Missing in Link2
+naturescompass,1.20.1-2.2.3-fabric,naturescompass,N/A,Missing in Link2
+nbttooltip,1.7.2,nbttooltip,N/A,Missing in Link2
+necronomicon,1.6.0,necronomicon,N/A,Missing in Link2
+neruina,2.1.2,neruina,N/A,Missing in Link2
+netherportalfix,13.0.1,netherportalfix,N/A,Missing in Link2
+nightlights,1.1,nightlights,N/A,Missing in Link2
+nochatreports,1.20.1-v2.2.2,nochatreports,N/A,Missing in Link2
+notenoughanimations,1.7.6,notenoughanimations,N/A,Missing in Link2
+oceansdelight,fdrf-fabric-1.0.2-1.20,oceansdelight,N/A,Missing in Link2
+overflowingbars,8.0.1,overflowingbars,N/A,Missing in Link2
+owo,0.11.2+1.20,owo,N/A,Missing in Link2
+packetfixer,1.4.2,packetfixer,N/A,Missing in Link2
+particle_core,0.2.5+1.20.1,particle_core,N/A,Missing in Link2
+patchouli,1.20.1-84-FABRIC,patchouli,N/A,Missing in Link2
+pehkui,3.8.3+1.14.4-1.21,pehkui,N/A,Missing in Link2
+permanentsponges,8.1.2,permanentsponges,N/A,Missing in Link2
+pigpen,15.0.2,pigpen,N/A,Missing in Link2
+ping-wheel,1.9.1,ping-wheel,N/A,Missing in Link2
+player-animator,1.0.2-rc1+1.20,player-animator,N/A,Missing in Link2
+plushies,1.4.0,plushies,N/A,Missing in Link2
+polymorph,0.49.7+1.20.1,polymorph,N/A,Missing in Link2
+puzzleslib,8.1.24,puzzleslib,N/A,Missing in Link2
+railways,1.6.4+fabric-mc1.20.1,railways,N/A,Missing in Link2
+reacharound,1.3.0,reacharound,N/A,Missing in Link2
+rebind_narrator,2.0.2,rebind_narrator,N/A,Missing in Link2
+recipeessentials,1.20.1-3.6,recipeessentials,N/A,Missing in Link2
+reeses-sodium-options,1.7.2+mc1.20.1-build.101,reeses-sodium-options,N/A,Missing in Link2
+resourcefulconfig,2.1.2,resourcefulconfig,N/A,Missing in Link2
+resourcefullib,2.1.29,resourcefullib,N/A,Missing in Link2
+resourcepackoverrides,8.0.3,resourcepackoverrides,N/A,Missing in Link2
+ribbits,1.20.1-Fabric-3.0.0,ribbits,N/A,Missing in Link2
+runelic,18.0.2,runelic,N/A,Missing in Link2
+sdrp,4.0.3-build.40+mc1.20.1,sdrp,N/A,Missing in Link2
+searchables,1.0.3,searchables,N/A,Missing in Link2
+seasonhud,1.9.6,seasonhud,N/A,Missing in Link2
+seasons,2.3+1.20,seasons,N/A,Missing in Link2
+seasonsdelightcompat,1.0-1.3.9,seasonsdelightcompat,N/A,Missing in Link2
+seasonsterralithcompat,1.0-2.3.7,seasonsterralithcompat,N/A,Missing in Link2
+sellingbin,1.0.9,sellingbin,N/A,Missing in Link2
+serverredirect,1.4.5,serverredirect,N/A,Missing in Link2
+simplehats,1.20.1-0.3.2,simplehats,N/A,Missing in Link2
+simpletms,1.1.2,simpletms,N/A,Missing in Link2
+simplyswords,1.56.0-1.20.1,simplyswords,N/A,Missing in Link2
+sliceanddice,3.3.1,sliceanddice,N/A,Missing in Link2
+smallships,2.0.0-b1.4,smallships,N/A,Missing in Link2
+sodium,0.5.11+mc1.20.1,sodium,N/A,Missing in Link2
+sodium-extra,0.5.4+mc1.20.1-build.115,sodium-extra,N/A,Missing in Link2
+spark,1.10.53,spark,N/A,Missing in Link2
+spiceoffabric,1.6.2+mc1.20.1,spiceoffabric,N/A,Missing in Link2
+stacc,1.7.0,stacc,N/A,Missing in Link2
+starterkit,7.1,starterkit,N/A,Missing in Link2
+strawstatues,8.0.3,strawstatues,N/A,Missing in Link2
+structory,1.3.5,structory,N/A,Missing in Link2
+structory_towers,1.0.7,structory_towers,N/A,Missing in Link2
+structureessentials,1.20.1-3.4,structureessentials,N/A,Missing in Link2
+stylisheffects,8.0.2,stylisheffects,N/A,Missing in Link2
+supermartijn642configlib,1.1.8+a,supermartijn642configlib,N/A,Missing in Link2
+supermartijn642corelib,1.1.17+a,supermartijn642corelib,N/A,Missing in Link2
+supplementaries,1.20-2.8.17,supplementaries,N/A,Missing in Link2
+suppsquared,1.20-1.1.15,suppsquared,N/A,Missing in Link2
+terrablender,3.0.1.7,terrablender,N/A,Missing in Link2
+terralith,2.5.4,terralith,N/A,Missing in Link2
+thiccpackets,1.17-1.19+,thiccpackets,N/A,Missing in Link2
+things,0.3.3+1.20,things,N/A,Missing in Link2
+toms_storage,1.6.8,toms_storage,N/A,Missing in Link2
+toolstats,16.0.9,toolstats,N/A,Missing in Link2
+trade_cycling,1.20.1-1.0.7,trade_cycling,N/A,Missing in Link2
+tradingpost,8.0.2,tradingpost,N/A,Missing in Link2
+trashcans,1.0.18,trashcans,N/A,Missing in Link2
+travelersbackpack,9.1.17,travelersbackpack,N/A,Missing in Link2
+trinkets,3.7.2,trinkets,N/A,Missing in Link2
+ubesdelight,0.2.0,ubesdelight,N/A,Missing in Link2
+universal_shops,1.3.2+1.20.1,universal_shops,N/A,Missing in Link2
+vanityslots,1.2.9,vanityslots,N/A,Missing in Link2
+villagernames,8.1,villagernames,N/A,Missing in Link2
+vinery,1.4.28,vinery,N/A,Missing in Link2
+visualworkbench,8.0.0,visualworkbench,N/A,Missing in Link2
+voicechat,1.20.1-2.5.24,voicechat,N/A,Missing in Link2
+wands,2.6.9-release,wands,N/A,Missing in Link2
+watut,1.20.1-1.1.3,watut,N/A,Missing in Link2
+xercamusic,fabric-1.20.1-1.0.2,xercamusic,N/A,Missing in Link2
+xercapaint,fabric-1.20.1-1.0.1,xercapaint,N/A,Missing in Link2
+yet_another_config_lib_v3,3.5.0+1.20.1-fabric,yet_another_config_lib_v3,N/A,Missing in Link2
+yigd,2.0.9,yigd,N/A,Missing in Link2
+yosbr,0.1.2,yosbr,N/A,Missing in Link2
+ysns,2.0.1,ysns,N/A,Missing in Link2
+yungsapi,1.20-Fabric-4.0.6,yungsapi,N/A,Missing in Link2
+yungsextras,1.20-Fabric-4.0.3,yungsextras,N/A,Missing in Link2
+zoomify,2.14.0+1.20.1,zoomify,N/A,Missing in Link2
