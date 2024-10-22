@@ -4,19 +4,25 @@ import requests
 import sys
 
 def extract_mods_from_log(input_source):
+    print(f"Extracting mods from: {input_source}")  # Checkpoint 1
+
     # Check if input source is a URL or a file path
     if input_source.startswith("http://") or input_source.startswith("https://"):
         response = requests.get(input_source)
         content = response.text
+        print(f"Fetched {len(content)} characters from {input_source}")  # Checkpoint 2
     else:
         with open(input_source, 'r') as file:
             content = file.read()
+        print(f"Read {len(content)} characters from {input_source}")  # Checkpoint 2
 
     # Look for the mod loading section
     mod_section = re.search(r'\[main/INFO]: Loading \d+ mods:\n((?:.*\n)*?)\n\n', content)
     if not mod_section:
-        print(f"No mod list found in {input_source}")
+        print(f"No mod list found in {input_source}")  # Checkpoint 3
         return []
+
+    print("Mod section found. Extracting mods...")  # Checkpoint 4
 
     mods = []
     for line in mod_section.group(1).splitlines():
@@ -26,17 +32,19 @@ def extract_mods_from_log(input_source):
             version = parts[1] if len(parts) > 1 else "N/A"
             mods.append((mod_name, version))
 
+    print(f"Extracted {len(mods)} mods from {input_source}")  # Checkpoint 5
+    print(f"First 5 mods: {mods[:5]}")  # Optional: Display a sample
+
     return mods
 
-
 def compare_mods(mods1, mods2):
+    print("Comparing mods...")  # Checkpoint 6
+
     # Convert to dictionaries for easy comparison
     dict1 = {mod[0]: mod[1] for mod in mods1}
     dict2 = {mod[0]: mod[1] for mod in mods2}
 
     comparison = []
-
-    # Check for matches, mismatches, and missing mods
     all_mods = set(dict1.keys()).union(set(dict2.keys()))
 
     for mod in all_mods:
@@ -54,15 +62,23 @@ def compare_mods(mods1, mods2):
 
         comparison.append((mod, version1, mod, version2, result))
 
+    print(f"Comparison completed. Total mods compared: {len(comparison)}")  # Checkpoint 7
     return comparison
 
 def write_to_csv(data, output_file="mod_comparison.csv"):
+    print(f"Writing comparison results to {output_file}...")  # Checkpoint 8
+
     with open(output_file, mode='w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["Mod Name (Link1)", "Version (Link1)", 
                          "Mod Name (Link2)", "Version (Link2)", 
                          "Comparison Result"])
-        writer.writerows(data)
+        
+        for row in data:
+            print(f"Writing row: {row}")  # Optional: Print each row being written
+            writer.writerow(row)
+
+    print("CSV writing completed.")  # Checkpoint 9
 
 def main():
     if len(sys.argv) < 3:
@@ -78,7 +94,7 @@ def main():
     comparison = compare_mods(mods1, mods2)
 
     write_to_csv(comparison)
-    print("Comparison completed! Check 'mod_comparison.csv' for the results.")
+    print("Comparison completed! Check 'mod_comparison.csv' for the results.")  # Final checkpoint
 
 if __name__ == "__main__":
     main()
